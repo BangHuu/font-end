@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea392ca2-221b-44b1-8f13-bb1e2cfb2148" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Za8YsnryhOetlXoBytWMzVwbvb" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FontEnd\images" />
+      <recent name="D:\FontEnd\js" />
+      <recent name="D:\FontEnd\font" />
+      <recent name="D:\FontEnd\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea392ca2-221b-44b1-8f13-bb1e2cfb2148" name="Default Changelist" comment="" />
+      <created>1585065894493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585065894493</updated>
+      <workItem from="1585065895832" duration="5552000" />
+      <workItem from="1585104168782" duration="3439000" />
+      <workItem from="1585126857063" duration="15394000" />
+      <workItem from="1585273850164" duration="2347000" />
+      <workItem from="1585380385016" duration="9879000" />
+      <workItem from="1585465941898" duration="24759000" />
+      <workItem from="1585532773800" duration="120000" />
+      <workItem from="1585532965102" duration="16514000" />
+      <workItem from="1585702803373" duration="1308000" />
+      <workItem from="1585877093728" duration="674000" />
+      <workItem from="1585878265274" duration="895000" />
+      <workItem from="1585884380903" duration="10000" />
+      <workItem from="1592230477397" duration="6704000" />
+      <workItem from="1592267934409" duration="12953000" />
+      <workItem from="1592445824162" duration="3627000" />
+      <workItem from="1592560967375" duration="679000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
